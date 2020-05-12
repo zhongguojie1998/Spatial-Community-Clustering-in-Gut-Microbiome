@@ -13,4 +13,4 @@ Pipeline:
 
 3. Run run.picrust.sh in bash shell to perform the PICRUSt2, the output files will be saved under "picrust2-2.3.0-b/{sample_name}.out/"
 
-4. To reproduce the figures in the paper, run draw.bernoulli.mf.mxLH.R, top10.metagenome.R and top10.pathways.R. The figures will be saved in folder "bernoulli.mf.plots/{sample_name}/".
+4. To reproduce the figures in the paper, run draw.bernoulli.mf.mxLH.R, top10.metagenome.R and top10.pathways.R. The figures of bernoulli MF, basis mat and coef mat  will be saved in folder "bernoulli.mf.plots/{sample_name}/". The figures of pathway plot will be saved in folder "pathway.plots/{sample_name}/".
